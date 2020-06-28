@@ -1,0 +1,57 @@
+body {
+    background: url('SixPain.jpg.png') no-repeat center fixed;;
+    background-size: contain;
+    background-color: gray
+  }
+  
+  h1    {
+        color:red;
+        text-align:center;
+        font-size:70px;
+        display: inline; 
+  }
+
+  h2  {
+    text-decoration: underline;
+  }
+
+  .a {
+      font-size: 20px;
+  }
+  
+  #para1   {
+      color:green;
+      font-size:30px;;
+  }
+  
+  #para2	{
+      color:black;
+      text-align:right;
+      font-size:40px;;
+  }
+
+  ul.a {
+    list-style-type: circle;
+    color: gold;
+  }
+  
+  ul.b {
+    list-style-type: square;
+    color: green
+  }
+  
+  ol.c {
+    list-style-type: upper-roman;
+    color: orangered
+  }
+  
+  ol.d {
+    list-style-type: lower-alpha;
+    color: rebeccapurple
+  }
+
+  ol.e {
+    background: gray;
+    padding: 20px;
+    display: table;
+  }
